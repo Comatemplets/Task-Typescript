@@ -10,7 +10,7 @@
 
 ## Demo
 
-[Live Demo](https://677cbcbb2f6fcc9794ccd98e--task-education.netlify.app/)
+[Live Demo](https://6787ee8c46babe5c675a7f42--typescript-taskk.netlify.app/)
 
 ---
 
